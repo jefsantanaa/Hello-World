@@ -1,2 +1,5 @@
 # Hello-World
- I am learning about versioning in Git and GitHub in teacher Gustavo Guanabara's course.
+
+Hello World,
+
+My name is Jefferson Santana, I have been learning about versioning Git and GitHub in teacher Gustavo Guanabara's course.
