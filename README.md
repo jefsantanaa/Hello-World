@@ -3,7 +3,7 @@
 My name is Jefferson Santana, currently, I am studying version control using **Git** and **GitHub** in Gustavo Guanabara's course.
 
 ---
-## Study Involved
+### Study Involved
 
 - [x] What Git and Version Control are?;
 - [x] What GitHub is?;
@@ -15,4 +15,5 @@ My name is Jefferson Santana, currently, I am studying version control using **G
 - [ ] GitHub more safe..
 
 ---
-I added this line directly from the GitHub website as a test! 
+### Test actions
+* I added this line directly from the GitHub website as a test; 
