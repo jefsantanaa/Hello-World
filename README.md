@@ -8,13 +8,13 @@ My name is Jefferson Santana, currently, I am studying version control using **G
 - [x] What Git and Version Control are?;
 - [x] What GitHub is?;
 - [x] Git and GitHub evolution;
-- [x] Creating the first repository;
-- [x] Cloning a repository;
-- [x] Learning about issues;
+- [x] Creating the first Repository;
+- [x] Cloning a Repository;
+- [x] Learning about Issues;
 - [x] Markdown guide;
-- [ ] GitHub more safe..
-- [ ] 
-- [ ] Hosting on GitHub pages.
+- [x] GitHub more safe..;
+- [x] Learning about Branch;
+- [ ] Hosting on GitHub Pages.
 
 ---
 ### Test actions
