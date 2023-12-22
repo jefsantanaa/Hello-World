@@ -1,6 +1,5 @@
-# Hello World
-
-My name is Jefferson Santana, currently, I am studying version control using **Git** and **GitHub** in Gustavo Guanabara's course.
+# Git and GitHub
+My name is Jefferson, I am studying version control using **Git** and **GitHub** in Gustavo Guanabara's course.
 
 ---
 ### Study Involved
