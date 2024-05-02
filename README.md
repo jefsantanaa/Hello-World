@@ -13,7 +13,7 @@ My name is Jefferson, I am studying version control using **Git** and **GitHub**
 - [x] Markdown guide;
 - [x] GitHub more safe..;
 - [x] Learning about Branch;
-- [ ] Hosting on GitHub Pages.
+- [x] Hosting on GitHub Pages.
 
 ---
 ### Test actions
