@@ -1,5 +1,5 @@
 # Git and GitHub
-My name is Jefferson, I am studying version control using **Git** and **GitHub** in Gustavo Guanabara's course.
+This is my version control study using **Git** and **GitHub** in Gustavo Guanabara and Digital Innovation One's course
 
 ---
 ### Study Involved
